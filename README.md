@@ -1,4 +1,5 @@
 # 🍔 Foodix UI
+![Foodix](https://github.com/user-attachments/assets/3b01e38c-df3a-4313-90de-385a75659419)
 
 <h3 align="center">A modern food ordering website built with React.js, Tailwind CSS, and JavaScript, designed for a smooth, responsive, and interactive user experience.</h3>
 
