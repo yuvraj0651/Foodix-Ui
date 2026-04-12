@@ -27,6 +27,11 @@ Foodix is a **frontend UI project** for a modern food ordering platform. It feat
 
 ---
 
+## Live Demo -
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=netlify)](https://foodix-app.netlify.app/)
+
+---
+
 ### 🛠️ Tech Stack
 - **Frontend:** React.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
 - **Tools & Libraries:** Vite, Git, GitHub
