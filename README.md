@@ -36,3 +36,15 @@ Foodix is a **frontend UI project** for a modern food ordering platform. It feat
 - **Frontend:** React.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
 - **Tools & Libraries:** Vite, Git, GitHub
 - **Design:** Figma for UI planning
+
+  ---
+
+  ## 🚀 Installation
+
+Clone the repository and run locally:
+
+```bash
+git clone https://github.com/yuvraj0651/Foodix-Ui.git
+cd Foodix-Ui
+npm install
+npm run dev
